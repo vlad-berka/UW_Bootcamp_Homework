@@ -1,0 +1,12 @@
+h1 {text-align: center}
+.center{text-align: center}
+.redtext{color: red}
+.bluetext{color: blue}
+.greentext{color: green}
+.bigfont{font-size: 300%}
+.smallfont{font-size: 50%}
+.bold{font-weight: bold}
+.diff_font{font-family: Helvetica}
+.multi_class{font-size: 200%; color: orange; font-weight: bold}
+.styledFont{font-style: italic; font-size: small; color:green}
+#styledImage{border: 10px; border-style: dashed; border-color: orange}

@@ -1,0 +1,21 @@
+BooTheDog.html
+Line 19: Missing header <h1></h1> around the title
+Line 40-43: Missing the <p></p> for proper indentation
+Line 43: Need to include the hyperlink in the quotations inside href =""
+Line 50: Missing brackets around the img class function
+Lines 72-76: Missing <li></li> for list items
+Lines 88-90: text>color< not matching the three button names (i.e. "textGreen">Orange<)
+Line 113: Wrong source file, should be src="logic.js" instead of src="errors.js"
+
+Organization incorrect, order should be grow/shrink, color buttons, random fact, ordered list
+Missing a few <br> for indendation 
+Can also comment out the instructions :)
+
+logic.js
+Line 6: Each fact needs to be enclosed with quotations (") and separated by commas (,) such as: (<text>","<text>)
+Line 9: Missing quotations around the color "pink"
+Line 20: Missing quotations around "click"
+Line 25: Missing quotations around "click"
+
+style.css
+(None)
