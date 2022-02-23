@@ -22,6 +22,7 @@ No new web page functionality added.
 ## List of Files
 * README.md - This current read me file
 * index.html - HTML file for the initial website
+* ~./assets/images/Vlad_Berka_HW1_Screencap.png - Screenshot of the entire webpage
 * ~./assets/css/style.css - CSS file for the above noted website in the css subdirectory of the assets directory
 * ~./assets/images/brand-awareness.png - Multiple PNG files for the associated website in the images subdirectory of the assets directory
 * ~./assets/images/cost-management.png
@@ -56,3 +57,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Screenshot of Webpage
+
+![HW1 Website Screenshot, Horiseon](./assets/images/Vlad_Berka_HW1_Screencap.png "HW1 Website Screenshot, Horiseon")
