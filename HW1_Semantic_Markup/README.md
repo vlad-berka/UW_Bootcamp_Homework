@@ -9,12 +9,13 @@ Refactor a single landing page for a company that specializes in Search Engine O
 ## Generalized Tasks
 - Learn to read / understand AGILE User Stories and Acceptance Criteria
 - Replace HTML tags in the original source code with their semantic equivalents
-- Verify source code works and the website in general meet other listed Homework requirements
+- Update CSS styles to reflect semantic HTML changes and consolidate CSS styles as necessary
+- Verify source code works and the website meets other listed Homework requirements
 - Create a README.md file to describe the assignment and submission
 - Push to GitHub
 
 ## Summary of Work Completed
-All `div` and `span` HTML tags were substituted with appropriate semantic equivalents, such as `footer`, `section`, and `nav`. These were determined using educated guesses based on the flow and layout of the webpage. The CSS file then had to be updated to reflect the appropriate tag substitutions as some classes could be deleted in favor of new tags. There were a few errors in the code that needed to be corrected, like a broken hyperlink in the navigation bar to an anchor lower down in the website. Comments were then added into the CSS file for improved readability and understanding.
+All `div` and `span` HTML tags were substituted with appropriate semantic equivalents, such as `footer`, `section`, and `nav`. These were determined using educated guesses based on the flow and layout of the webpage. The CSS file then had to be updated to reflect the appropriate tag substitutions as some classes could be deleted in favor of new tags. Duplicate styles were consolidated to single classes. There were a few errors in the code that needed to be corrected, like a broken hyperlink in the navigation bar to an anchor lower down in the website. Comments were then added into the CSS file for improved readability and understanding.
 
 No new lines of code were written.
 No new web page functionality added.
